@@ -28,4 +28,30 @@ SIL             | Dollars per ounce      | Price of silver
 | Ridge         | 0.8691   | 18.36  | 113.7  | 10.66 |
 
 ## Data Overview 
+![image](https://github.com/PenugondaHariSai/OilPricePrediction/assets/74250403/e82e37d2-7ff3-4533-bc45-7d7a3b0ce73f)
+
+## Time Series Analysis 
+![image](https://github.com/PenugondaHariSai/OilPricePrediction/assets/74250403/15336a33-2962-4bad-8eb3-36b83eeb066e)
+
+## Correlation Heat Map
+![image](https://github.com/PenugondaHariSai/OilPricePrediction/assets/74250403/c61b07a3-6fa5-4b02-a913-baa7a3916bbf)
+
+## Model R2 Scores Comparison
+![image](https://github.com/PenugondaHariSai/OilPricePrediction/assets/74250403/12eabb5b-00a1-403b-8753-894d035ec302)
+
+## Scatter Plots 
+### Random Forest 
+![image](https://github.com/PenugondaHariSai/OilPricePrediction/assets/74250403/1096d8d9-ea3a-42bd-a3e4-6cfa527050b9)
+
+### Tree Regressor 
+![image](https://github.com/PenugondaHariSai/OilPricePrediction/assets/74250403/1544373c-1a81-4ef6-abfe-19c848b641ed)
+
+### Support Vector Regression 
+![image](https://github.com/PenugondaHariSai/OilPricePrediction/assets/74250403/25b393bd-c139-4b53-983e-7f5679031aae)
+
+
+
+
+
+
 
