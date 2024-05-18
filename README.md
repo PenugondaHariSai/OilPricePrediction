@@ -1,4 +1,4 @@
-# Prediction of Cruide Oil prices using Machine Learning Techniques 
+# Prediction of Crude Oil prices using Machine Learning Techniques 
 
 ## Objective 
 
